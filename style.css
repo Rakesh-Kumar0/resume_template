@@ -80,3 +80,32 @@
 .contact-value{
     color: gray;
 }
+.skill-progress{
+    height: 10px;
+}
+
+.certificate-heading, .skills-heading, .cnotact-heading{
+    display: flex;
+    gap: 8px;
+}
+
+/* details section css */
+.details {
+  grid-column-start: auto;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  padding-right: 20px;
+}
+
+.objective-heading,
+.experience-heading,
+.project-heading,
+.education-heading {
+  color: #5271ff;
+}
+
+.objective-desc {
+  color: gray;
+  padding-top: 10px;
+}
