@@ -109,3 +109,27 @@
   color: gray;
   padding-top: 10px;
 }
+.job-desc,
+.project-desc,
+.college-name {
+  color: gray;
+  padding-left: 40px;
+}
+
+.line2 {
+  height: 2px;
+  background: black;
+}
+
+.experience,
+.project,
+.education {
+  padding-top: 20px;
+}
+
+.experience-list li,
+.project-list li,
+.education-list li {
+  list-style-type: none;
+  padding-top: 10px;
+}
