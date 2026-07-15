@@ -133,3 +133,22 @@
   list-style-type: none;
   padding-top: 10px;
 }
+
+.role,
+.project-name,
+.education-date {
+  display: flex;
+  gap: 24px;
+}
+
+.company,
+.tech-stack,
+.education-type,
+.college-name {
+  padding-left: 40px;
+}
+
+.role-date {
+  display: flex;
+  justify-content: space-between;
+}
