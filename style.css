@@ -46,3 +46,37 @@
 .links a{
     text-decoration: none;
 }
+.github, .linkedin{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: white;
+}
+
+/* profile-bottom css */
+.profile-bottom{
+    background-color: #3c4240;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.certificate, .skills, .contact{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.contact-list, .skill-list, .cert-list{
+    list-style-type: none;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.line1{
+    height: 2px;
+    background: white;
+}
+.contact-value{
+    color: gray;
+}
