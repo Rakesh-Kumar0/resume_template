@@ -90,6 +90,7 @@
 }
 
 /* details section css */
+
 .details {
   grid-column-start: auto;
   grid-column-end: 3;
